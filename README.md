@@ -322,7 +322,7 @@ pyplot.show()
 
 ![matplot12](img/matplot12.png)
 
-## 주석(annonation)
+## 주석(annotation)
 
 도표의 특정 좌표를 가리키는 화살표를 그린 후, 그 화살표에 문자열을 출력하는 기능이다. 
 - **annotate**() 메소드를 **annotate(*'text', xy, xytext, arrowprops*)** 형식으로 사용하면 된다.
